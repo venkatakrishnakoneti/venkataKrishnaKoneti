@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm venkata krishna koneti</h1>
-<h3 align="center">A frontendull stack developer</h3>
+<h3 align="center">A Full stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
